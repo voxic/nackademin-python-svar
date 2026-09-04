@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+rapport.txt
+sensor.json
